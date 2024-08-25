@@ -461,7 +461,7 @@
     <resources>
         <image name="BrandLogo" width="4384" height="4384"/>
         <namedColor name=" BrandFontColor">
-            <color red="0.1058823466" green="0.1058823466" blue="0.098039209840000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.10599999874830246" green="0.10599999874830246" blue="0.097999997437000275" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <namedColor name="BrandBackground">
             <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
